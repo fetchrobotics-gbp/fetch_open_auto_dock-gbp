@@ -1,3 +1,26 @@
+## fetch_open_auto_dock (noetic) - 0.1.3-2
+
+The packages in the `fetch_open_auto_dock` repository were released into the `noetic` distro by running `/usr/local/bin/bloom-release fetch_open_auto_dock --rosdistro noetic` on `Thu, 25 Feb 2021 15:43:34 -0000`
+
+The `fetch_open_auto_dock` package was released.
+
+Version of package(s) in repository `fetch_open_auto_dock`:
+
+- upstream repository: https://github.com/fetchrobotics/fetch_open_auto_dock.git
+- release repository: https://github.com/fetchrobotics-gbp/fetch_open_auto_dock-gbp.git
+- rosdistro version: `0.1.3-1`
+- old version: `0.1.3-1`
+- new version: `0.1.3-2`
+
+Versions of tools used:
+
+- bloom version: `0.10.1`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## fetch_open_auto_dock (noetic) - 0.1.3-1
 
 The packages in the `fetch_open_auto_dock` repository were released into the `noetic` distro by running `/usr/local/bin/bloom-release fetch_open_auto_dock --rosdistro noetic` on `Mon, 22 Feb 2021 05:07:57 -0000`
