@@ -42,7 +42,7 @@ tracks:
     last_version: 0.1.3
     name: fetch_open_auto_dock
     patches: null
-    release_inc: '1'
+    release_inc: '2'
     release_repo_url: git@github.com:fetchrobotics-gbp/fetch_open_auto_dock-gbp.git
     release_tag: :{version}
     ros_distro: noetic
